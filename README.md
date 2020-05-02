@@ -1,5 +1,7 @@
 ## Benchmarking Assignment
 
+Contributors: [@Playjasb2](https://github.com/Playjasb2) and [@Jas03x](https://github.com/Jas03x).
+
 The "process_activity" folder contains the experiment of part A. There is a file called "run_experiment_A.sh" which will compile the
 program, and generate the results for the system.
 
